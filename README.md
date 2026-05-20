@@ -62,35 +62,35 @@ Three simulated datasets covering a portfolio of 39 enterprise applications:
 ## Dashboard Views
 
 ### 1. Application Lifecycle Heatmap (LeanIX View)
-![Lifecycle Heatmap](outputs/01_lifecycle_heatmap.png)
+![Lifecycle Heatmap](01_lifecycle_heatmap.png)
 
 Shows the distribution of application lifecycle stages across business units, mirroring the LeanIX landscape view. Identifies which business units have the most applications in Phase-Out or Under Review status, helping prioritize governance attention.
 
 ---
 
 ### 2. Application Portfolio Matrix
-![Portfolio Matrix](outputs/02_portfolio_matrix.png)
+![Portfolio Matrix](02_portfolio_matrix.png)
 
 Plots applications by Technical Fit vs Business Fit with bubble size representing active user count and color representing lifecycle stage. Quadrant analysis guides strategic decisions: Maintain and Grow, Invest or Migrate, Phase Out, or Eliminate.
 
 ---
 
 ### 3. Action Items by Status and Priority (Jira View)
-![Action Items](outputs/03_action_items_jira.png)
+![Action Items](03_action_items_jira.png)
 
 A stacked bar chart showing open, in-progress, and resolved issues broken down by priority level (Critical, High, Medium, Low). Mirrors the Jira sprint board view and supports weekly governance review meetings.
 
 ---
 
 ### 4. Audit Compliance Status by Application Type
-![Audit Compliance](outputs/04_audit_compliance.png)
+![Audit Compliance](04_audit_compliance.png)
 
 Shows compliance status (Compliant, Pending Review, Non-Compliant) broken down by application type (SaaS, On-Premise, Hybrid, Custom Built). Supports IT audit, GDPR compliance review, and application governance processes.
 
 ---
 
 ### 5. Owner Alignment: Open Issues per Application Owner
-![Owner Alignment](outputs/05_owner_alignment.png)
+![Owner Alignment](05_owner_alignment.png)
 
 Identifies which application owners have the highest number of unresolved action items, enabling targeted follow-up and stakeholder alignment. Color coding highlights owners requiring immediate attention (red above 10, amber above 5).
 
