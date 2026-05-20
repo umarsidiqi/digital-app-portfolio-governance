@@ -1,0 +1,151 @@
+Issue_ID,Application_Name,Issue_Type,Priority,Status,Assignee,Created_Date,Due_Date,Resolved_Date,Days_Open
+KD-100,Anaplan Planning,Compliance Gap,Low,Closed,Julia Becker,2024-02-05,2024-04-16,2024-04-06,
+KD-101,Qualys VM,Security Audit,Low,Closed,Laura Zimmermann,2024-12-28,2025-01-23,2025-02-15,
+KD-102,MuleSoft Anypoint,Owner Alignment,Low,Closed,Laura Zimmermann,2024-06-14,2024-07-22,2024-07-17,
+KD-103,Snowflake Data Cloud,Owner Alignment,Medium,Closed,Stefan Hoffmann,2024-06-21,2024-07-01,2024-07-11,
+KD-104,DocuSign,Data Governance,High,Resolved,Anna Schmidt,2024-05-23,2024-08-14,2024-08-21,
+KD-105,Adobe Experience Manager,Security Audit,Critical,Closed,Anna Schmidt,2025-01-03,2025-03-03,2025-03-08,
+KD-106,Celonis Process Mining,Security Audit,Medium,Closed,Michael Wagner,2024-04-23,2024-06-20,2024-06-29,
+KD-107,Knauf Dealer App,Owner Alignment,Critical,Closed,Maria Fischer,2024-06-18,2024-08-09,2024-08-16,
+KD-108,Teams Voice,Architecture Review,Low,Resolved,Stefan Hoffmann,2024-03-02,2024-05-16,2024-05-17,
+KD-109,Knauf Order Management,Owner Alignment,Medium,Closed,Klaus Weber,2025-01-24,2025-04-08,2025-04-04,
+KD-110,SharePoint Online,Compliance Gap,Medium,Open,Klaus Weber,2024-01-08,2024-03-23,,863.0
+KD-111,RSA Archer,License Review,High,Closed,Thomas Müller,2024-02-22,2024-03-01,2024-03-21,
+KD-112,Pega Platform,Data Governance,Critical,Resolved,Klaus Weber,2024-09-01,2024-09-22,2024-10-07,
+KD-113,Confluence,Compliance Gap,Low,In Progress,Laura Zimmermann,2024-10-15,2024-11-29,,582.0
+KD-114,Knauf Field Service,License Review,Low,Closed,Stefan Hoffmann,2024-11-12,2024-12-17,2024-12-31,
+KD-115,Knauf Analytics Hub,License Review,Critical,Resolved,Klaus Weber,2024-11-13,2024-11-27,2024-11-23,
+KD-116,Adobe Experience Manager,Security Audit,Low,Open,Laura Zimmermann,2024-03-29,2024-06-14,,782.0
+KD-117,SAP GRC,Architecture Review,Low,Under Review,Anna Schmidt,2024-05-29,2024-06-09,,721.0
+KD-118,SAP SuccessFactors,Data Governance,High,Resolved,Klaus Weber,2024-05-15,2024-08-10,2024-08-12,
+KD-119,MuleSoft Anypoint,Data Governance,Medium,Under Review,Sarah Neumann,2024-03-13,2024-03-29,,798.0
+KD-120,Azure DevOps,Security Audit,Critical,Closed,Laura Zimmermann,2024-08-27,2024-10-11,2024-10-18,
+KD-121,LeanIX EA Suite,Architecture Review,Critical,Resolved,Stefan Hoffmann,2024-08-09,2024-09-26,2024-09-17,
+KD-122,Knauf Analytics Hub,Data Governance,Low,Resolved,Sarah Neumann,2024-01-21,2024-02-19,2024-03-08,
+KD-123,Microsoft 365,License Review,Low,Resolved,Sarah Neumann,2024-08-28,2024-10-18,2024-10-28,
+KD-124,Celonis Process Mining,Compliance Gap,Medium,Closed,Stefan Hoffmann,2024-12-05,2025-02-01,2025-02-26,
+KD-125,Teams Voice,Security Audit,Critical,Closed,Maria Fischer,2024-02-29,2024-04-27,2024-04-17,
+KD-126,Knauf Customer Portal,Owner Alignment,Medium,Resolved,Peter Braun,2024-07-04,2024-09-28,2024-10-28,
+KD-127,Jira Software,Architecture Review,High,Resolved,Klaus Weber,2024-05-27,2024-07-29,2024-08-19,
+KD-128,SharePoint Online,Security Audit,Critical,Resolved,Klaus Weber,2024-10-09,2024-10-17,2024-10-12,
+KD-129,RSA Archer,Security Audit,High,Closed,Sarah Neumann,2025-01-01,2025-02-14,2025-02-21,
+KD-130,Knauf Dealer App,Data Governance,High,Closed,Anna Schmidt,2024-03-15,2024-05-10,,
+KD-131,MuleSoft Anypoint,License Review,Critical,Closed,Stefan Hoffmann,2025-01-30,2025-03-31,,
+KD-132,SharePoint Online,Data Governance,Low,Closed,Julia Becker,2024-10-27,2025-01-16,2025-02-06,
+KD-133,DocuSign,Cost Optimisation,High,Under Review,Maria Fischer,2024-10-09,2024-12-24,,588.0
+KD-134,Knauf Analytics Hub,Architecture Review,Low,Closed,Michael Wagner,2024-07-15,2024-08-20,2024-09-05,
+KD-135,Snowflake Data Cloud,Data Governance,Medium,Resolved,Anna Schmidt,2024-12-05,2025-03-05,2025-03-26,
+KD-136,CyberArk PAM,Cost Optimisation,High,Closed,Anna Schmidt,2024-02-21,2024-05-05,2024-04-25,
+KD-137,SAP GRC,Architecture Review,Critical,Resolved,Julia Becker,2025-02-04,2025-03-16,,
+KD-138,Knauf Product Configurator,Data Governance,Critical,Resolved,Maria Fischer,2024-07-13,2024-08-29,2024-09-19,
+KD-139,Celonis Process Mining,Owner Alignment,Medium,Closed,Thomas Müller,2024-04-26,2024-05-14,2024-05-10,
+KD-140,LeanIX EA Suite,Security Audit,High,Under Review,Maria Fischer,2024-06-15,2024-06-29,,704.0
+KD-141,Knauf Customer Portal,Compliance Gap,Low,Resolved,Laura Zimmermann,2024-07-29,2024-10-16,2024-10-17,
+KD-142,Adobe Experience Manager,Architecture Review,Medium,Resolved,Sarah Neumann,2024-09-11,2024-12-01,,
+KD-143,Pega Platform,Compliance Gap,Low,Resolved,Julia Becker,2024-12-07,2024-12-15,2025-01-03,
+KD-144,Knauf Order Management,Owner Alignment,Low,Closed,Sarah Neumann,2024-06-02,2024-08-29,2024-09-04,
+KD-145,Power BI Premium,Compliance Gap,Low,Closed,Stefan Hoffmann,2024-05-01,2024-06-25,2024-07-21,
+KD-146,SAP S/4HANA,Data Governance,Medium,Resolved,Maria Fischer,2024-10-16,2024-10-29,2024-11-19,
+KD-147,Veeva Vault,License Review,Low,Resolved,Thomas Müller,2024-11-13,2024-12-22,2024-12-20,
+KD-148,Knauf Order Management,License Review,Low,Under Review,Klaus Weber,2024-07-05,2024-07-28,,684.0
+KD-149,Veeva Vault,Cost Optimisation,High,Closed,Stefan Hoffmann,2024-03-08,2024-05-23,2024-06-05,
+KD-150,SAP GRC,Cost Optimisation,High,Resolved,Michael Wagner,2024-05-31,2024-07-20,2024-08-08,
+KD-151,Knauf Dealer App,Security Audit,Medium,Resolved,Stefan Hoffmann,2024-07-06,2024-07-24,2024-07-14,
+KD-152,Knauf Order Management,Compliance Gap,Medium,Closed,Laura Zimmermann,2024-07-14,2024-10-10,2024-10-06,
+KD-153,SAP SuccessFactors,Compliance Gap,High,Closed,Thomas Müller,2024-11-27,2024-12-12,2024-12-31,
+KD-154,LeanIX EA Suite,Data Governance,High,In Progress,Michael Wagner,2024-06-04,2024-08-13,,715.0
+KD-155,Qualys VM,Cost Optimisation,Low,Resolved,Laura Zimmermann,2024-07-08,2024-09-22,2024-09-21,
+KD-156,SolarWinds ITSM,Owner Alignment,Medium,Closed,Anna Schmidt,2024-05-23,2024-06-03,2024-06-06,
+KD-157,Anaplan Planning,License Review,High,Resolved,Anna Schmidt,2024-10-05,2025-01-02,,
+KD-158,Qualys VM,Cost Optimisation,Medium,Resolved,Maria Fischer,2024-02-16,2024-03-21,2024-04-18,
+KD-159,Jira Software,Owner Alignment,High,Closed,Maria Fischer,2024-10-16,2024-11-18,,
+KD-160,DocuSign,Cost Optimisation,High,Closed,Klaus Weber,2025-01-31,2025-02-25,2025-03-25,
+KD-161,Knauf Product Configurator,Owner Alignment,Critical,Open,Julia Becker,2024-05-08,2024-06-06,,742.0
+KD-162,Adobe Experience Manager,Compliance Gap,High,Under Review,Michael Wagner,2024-10-28,2024-12-15,,569.0
+KD-163,Knauf Customer Portal,Security Audit,High,Resolved,Laura Zimmermann,2024-02-28,2024-03-14,2024-03-27,
+KD-164,LeanIX EA Suite,Compliance Gap,Low,Open,Michael Wagner,2025-01-07,2025-03-21,,498.0
+KD-165,Dynatrace APM,License Review,High,Resolved,Anna Schmidt,2024-12-17,2025-01-06,2025-01-24,
+KD-166,Jira Software,Data Governance,Medium,Closed,Sarah Neumann,2024-05-20,2024-08-14,2024-09-08,
+KD-167,OneTrust Privacy,Cost Optimisation,High,Open,Michael Wagner,2024-11-05,2025-01-06,,561.0
+KD-168,CyberArk PAM,Security Audit,Low,Resolved,Anna Schmidt,2024-04-26,2024-06-24,,
+KD-169,Teams Voice,Compliance Gap,Critical,Closed,Anna Schmidt,2024-08-06,2024-09-22,2024-10-05,
+KD-170,Microsoft 365,Data Governance,Medium,Resolved,Anna Schmidt,2024-08-09,2024-08-28,2024-09-10,
+KD-171,SolarWinds ITSM,License Review,Critical,Closed,Laura Zimmermann,2024-06-30,2024-08-30,2024-08-23,
+KD-172,OneTrust Privacy,Cost Optimisation,Medium,Closed,Anna Schmidt,2024-04-18,2024-05-14,2024-05-18,
+KD-173,MuleSoft Anypoint,Data Governance,Medium,Resolved,Thomas Müller,2024-10-20,2024-11-24,2024-12-19,
+KD-174,Tableau Server,Cost Optimisation,High,Resolved,Laura Zimmermann,2024-05-19,2024-07-04,2024-07-16,
+KD-175,DataStage ETL,Security Audit,Low,Resolved,Sarah Neumann,2024-02-05,2024-03-01,2024-02-21,
+KD-176,DocuSign,Cost Optimisation,Critical,Under Review,Thomas Müller,2024-03-21,2024-05-14,,790.0
+KD-177,Confluence,License Review,Low,Open,Michael Wagner,2024-03-21,2024-06-15,,790.0
+KD-178,RSA Archer,License Review,Low,Resolved,Anna Schmidt,2024-11-06,2025-01-08,2025-01-11,
+KD-179,Celonis Process Mining,Security Audit,Critical,Resolved,Thomas Müller,2024-12-13,2025-03-05,2025-03-14,
+KD-180,Oracle EPM,Compliance Gap,Critical,Closed,Sarah Neumann,2024-06-03,2024-07-07,2024-07-13,
+KD-181,Dynatrace APM,Data Governance,Medium,In Progress,Anna Schmidt,2024-03-30,2024-04-22,,781.0
+KD-182,DataStage ETL,Data Governance,Low,Closed,Laura Zimmermann,2025-01-14,2025-01-26,2025-02-14,
+KD-183,DataStage ETL,License Review,High,Resolved,Laura Zimmermann,2024-12-29,2025-03-27,2025-03-24,
+KD-184,Qualys VM,Owner Alignment,Low,Open,Laura Zimmermann,2024-12-19,2025-02-10,,517.0
+KD-185,DataStage ETL,Architecture Review,Medium,Under Review,Maria Fischer,2024-09-25,2024-10-12,,602.0
+KD-186,DocuSign,Data Governance,High,Open,Julia Becker,2025-02-02,2025-03-02,,472.0
+KD-187,Coupa Procurement,License Review,High,Resolved,Klaus Weber,2025-01-07,2025-04-06,2025-04-11,
+KD-188,Knauf Field Service,Security Audit,Low,Resolved,Laura Zimmermann,2024-03-19,2024-06-17,,
+KD-189,Teams Voice,Security Audit,Low,Open,Stefan Hoffmann,2024-11-17,2025-01-03,,549.0
+KD-190,MuleSoft Anypoint,License Review,Low,Open,Sarah Neumann,2024-10-29,2024-11-12,,568.0
+KD-191,LeanIX EA Suite,Security Audit,Critical,Closed,Sarah Neumann,2024-01-30,2024-03-24,2024-03-18,
+KD-192,Knauf Analytics Hub,Data Governance,High,Resolved,Thomas Müller,2024-11-29,2024-12-30,,
+KD-193,CyberArk PAM,Compliance Gap,High,Resolved,Sarah Neumann,2024-02-22,2024-04-12,2024-04-07,
+KD-194,CyberArk PAM,Security Audit,Low,Closed,Julia Becker,2024-09-25,2024-12-07,2024-12-20,
+KD-195,Knauf Field Service,Data Governance,Low,Resolved,Stefan Hoffmann,2024-01-27,2024-04-23,2024-04-17,
+KD-196,Pega Platform,License Review,Medium,Resolved,Michael Wagner,2025-01-05,2025-03-30,2025-04-10,
+KD-197,Jira Software,Architecture Review,Medium,Resolved,Klaus Weber,2024-10-31,2024-11-17,,
+KD-198,Knauf Customer Portal,License Review,Medium,Resolved,Klaus Weber,2024-02-17,2024-05-16,2024-06-07,
+KD-199,Oracle EPM,Owner Alignment,Critical,In Progress,Stefan Hoffmann,2024-06-23,2024-08-31,,696.0
+KD-200,Power BI Premium,Cost Optimisation,High,Closed,Laura Zimmermann,2024-09-16,2024-12-01,2024-12-24,
+KD-201,Snowflake Data Cloud,Cost Optimisation,High,Closed,Sarah Neumann,2024-03-19,2024-04-15,,
+KD-202,LeanIX EA Suite,Cost Optimisation,Low,Closed,Maria Fischer,2024-07-29,2024-09-20,2024-09-25,
+KD-203,Knauf Product Configurator,Architecture Review,Low,Closed,Sarah Neumann,2024-05-02,2024-06-17,2024-07-07,
+KD-204,Celonis Process Mining,Cost Optimisation,High,Resolved,Stefan Hoffmann,2025-02-02,2025-03-29,2025-04-14,
+KD-205,ServiceNow ITSM,License Review,Critical,Resolved,Klaus Weber,2024-11-24,2025-01-31,2025-02-25,
+KD-206,MuleSoft Anypoint,Compliance Gap,High,Resolved,Sarah Neumann,2024-08-18,2024-10-29,,
+KD-207,Coupa Procurement,License Review,High,Closed,Michael Wagner,2024-01-14,2024-03-14,,
+KD-208,Microsoft 365,Cost Optimisation,Medium,Open,Klaus Weber,2024-07-10,2024-08-14,,679.0
+KD-209,Jira Software,Security Audit,Critical,Closed,Anna Schmidt,2024-01-20,2024-03-03,2024-03-23,
+KD-210,Salesforce CRM,Compliance Gap,Medium,Closed,Maria Fischer,2024-05-11,2024-06-14,2024-07-09,
+KD-211,SharePoint Online,Security Audit,Critical,Closed,Anna Schmidt,2024-03-03,2024-03-16,,
+KD-212,RSA Archer,Data Governance,High,Closed,Klaus Weber,2024-11-01,2025-01-15,,
+KD-213,Celonis Process Mining,Owner Alignment,Critical,Closed,Peter Braun,2024-08-07,2024-08-14,2024-08-19,
+KD-214,Anaplan Planning,Security Audit,Low,Resolved,Thomas Müller,2024-02-04,2024-04-18,2024-05-10,
+KD-215,Snowflake Data Cloud,Owner Alignment,Critical,Closed,Laura Zimmermann,2024-07-10,2024-08-18,2024-08-30,
+KD-216,DocuSign,Cost Optimisation,High,Under Review,Sarah Neumann,2024-03-09,2024-03-21,,802.0
+KD-217,SAP GRC,License Review,High,Resolved,Thomas Müller,2024-11-19,2024-12-19,2024-12-13,
+KD-218,Veeva Vault,License Review,Critical,Closed,Maria Fischer,2024-01-22,2024-03-09,2024-03-31,
+KD-219,Celonis Process Mining,Cost Optimisation,Medium,Resolved,Michael Wagner,2024-07-01,2024-07-14,2024-07-25,
+KD-220,DataStage ETL,Security Audit,Low,Resolved,Julia Becker,2025-01-15,2025-03-19,2025-04-02,
+KD-221,Knauf Customer Portal,Data Governance,Medium,Resolved,Julia Becker,2024-05-16,2024-06-02,2024-05-28,
+KD-222,Power BI Premium,Owner Alignment,Low,Closed,Julia Becker,2024-02-10,2024-03-29,2024-04-07,
+KD-223,CyberArk PAM,Compliance Gap,Low,Resolved,Julia Becker,2024-01-22,2024-03-14,2024-03-31,
+KD-224,OneTrust Privacy,Compliance Gap,High,Closed,Anna Schmidt,2025-01-18,2025-02-14,2025-02-13,
+KD-225,Adobe Experience Manager,Data Governance,Critical,Resolved,Laura Zimmermann,2025-02-02,2025-05-02,,
+KD-226,Confluence,Data Governance,High,Resolved,Peter Braun,2024-12-13,2025-02-15,2025-02-28,
+KD-227,Anaplan Planning,Architecture Review,High,Resolved,Sarah Neumann,2024-07-22,2024-09-07,2024-09-12,
+KD-228,Knauf Customer Portal,Architecture Review,Low,Under Review,Maria Fischer,2024-07-17,2024-10-03,,672.0
+KD-229,Celonis Process Mining,Cost Optimisation,Critical,In Progress,Sarah Neumann,2024-12-21,2025-02-28,,515.0
+KD-230,Tableau Server,Data Governance,Medium,Resolved,Stefan Hoffmann,2024-12-31,2025-03-04,2025-03-14,
+KD-231,SAP Ariba,Data Governance,High,Under Review,Anna Schmidt,2024-12-30,2025-03-28,,506.0
+KD-232,Veeva Vault,Security Audit,High,Closed,Laura Zimmermann,2024-03-12,2024-04-18,2024-04-09,
+KD-233,Microsoft 365,Data Governance,Low,Resolved,Michael Wagner,2024-02-03,2024-03-20,,
+KD-234,Knauf Analytics Hub,Architecture Review,Medium,Closed,Klaus Weber,2024-02-07,2024-03-01,2024-02-24,
+KD-235,Knauf Dealer App,Security Audit,Critical,In Progress,Anna Schmidt,2024-11-23,2025-02-13,,543.0
+KD-236,Knauf Customer Portal,Architecture Review,High,Under Review,Julia Becker,2024-03-19,2024-05-03,,792.0
+KD-237,Knauf Customer Portal,License Review,High,Closed,Stefan Hoffmann,2024-05-25,2024-06-11,,
+KD-238,Knauf Product Configurator,Owner Alignment,Medium,Resolved,Laura Zimmermann,2024-02-17,2024-04-28,2024-05-25,
+KD-239,LeanIX EA Suite,License Review,High,Closed,Laura Zimmermann,2024-01-15,2024-02-01,,
+KD-240,SolarWinds ITSM,License Review,Medium,Closed,Sarah Neumann,2024-11-12,2025-02-08,,
+KD-241,Adobe Experience Manager,Architecture Review,Critical,Open,Klaus Weber,2024-12-16,2025-02-12,,520.0
+KD-242,CyberArk PAM,License Review,Medium,Resolved,Julia Becker,2024-07-31,2024-10-07,2024-10-18,
+KD-243,DataStage ETL,Security Audit,Critical,Resolved,Stefan Hoffmann,2024-03-07,2024-04-30,2024-04-26,
+KD-244,CyberArk PAM,Security Audit,Low,Under Review,Maria Fischer,2024-05-06,2024-05-31,,744.0
+KD-245,SAP Ariba,Data Governance,Low,Closed,Sarah Neumann,2024-06-16,2024-09-04,2024-09-06,
+KD-246,SharePoint Online,Data Governance,Low,Resolved,Maria Fischer,2024-09-11,2024-09-20,,
+KD-247,Oracle EPM,Security Audit,Low,Under Review,Stefan Hoffmann,2024-10-25,2024-12-16,,572.0
+KD-248,Knauf Product Configurator,License Review,Critical,Closed,Michael Wagner,2024-01-05,2024-01-25,2024-01-31,
+KD-249,ServiceNow ITSM,License Review,Critical,Closed,Michael Wagner,2024-10-18,2025-01-04,,

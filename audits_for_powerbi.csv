@@ -1,0 +1,81 @@
+Audit_ID,Application_Name,Audit_Type,Audit_Date,Auditor,Result,Findings_Count,Next_Audit_Date,Status
+AUD-200,OneTrust Privacy,License Compliance Audit,2024-08-18,Peter Braun,Passed,0,2025-07-23,Closed
+AUD-201,Azure DevOps,License Compliance Audit,2024-03-06,Anna Schmidt,Minor Findings,5,2024-11-27,Closed
+AUD-202,Anaplan Planning,License Compliance Audit,2025-01-21,Klaus Weber,Passed,0,2025-12-21,Closed
+AUD-203,DataStage ETL,GDPR Compliance Review,2024-09-13,Thomas Müller,Passed,0,2025-03-21,Closed
+AUD-204,DocuSign,License Compliance Audit,2025-02-15,Sarah Neumann,Major Findings,7,2025-09-21,Open
+AUD-205,OneTrust Privacy,Data Sensitivity Assessment,2024-03-12,Julia Becker,Major Findings,5,2024-10-19,Open
+AUD-206,SharePoint Online,Data Sensitivity Assessment,2024-10-30,Julia Becker,Major Findings,8,2025-09-11,Open
+AUD-207,Knauf Analytics Hub,Application Governance Review,2024-06-02,Sarah Neumann,Passed,0,2025-03-03,Closed
+AUD-208,Azure DevOps,IT Security Audit,2024-08-01,Laura Zimmermann,Passed,0,2025-08-01,Closed
+AUD-209,Knauf Field Service,GDPR Compliance Review,2024-08-30,Stefan Hoffmann,Failed,9,2025-07-23,Open
+AUD-210,ServiceNow ITSM,License Compliance Audit,2024-10-25,Sarah Neumann,Passed,0,2025-09-04,Closed
+AUD-211,Snowflake Data Cloud,IT Security Audit,2024-03-16,Maria Fischer,Passed,0,2025-02-05,Closed
+AUD-212,Veeva Vault,GDPR Compliance Review,2024-01-10,Sarah Neumann,Passed,0,2024-10-23,Closed
+AUD-213,SolarWinds ITSM,Data Sensitivity Assessment,2024-12-19,Maria Fischer,Minor Findings,8,2025-11-20,Closed
+AUD-214,ServiceNow ITSM,Application Governance Review,2024-12-27,Klaus Weber,Major Findings,3,2025-11-15,Open
+AUD-215,SAP GRC,Data Sensitivity Assessment,2024-09-26,Michael Wagner,Passed,0,2025-05-08,Closed
+AUD-216,Knauf Product Configurator,Application Governance Review,2024-06-24,Peter Braun,Passed,0,2025-06-12,Closed
+AUD-217,SAP GRC,Application Governance Review,2024-04-08,Maria Fischer,Passed,0,2025-02-24,Closed
+AUD-218,SAP SuccessFactors,GDPR Compliance Review,2025-04-27,Stefan Hoffmann,Passed,0,2026-04-22,Closed
+AUD-219,RSA Archer,Application Governance Review,2024-06-11,Sarah Neumann,Passed,0,2025-04-30,Closed
+AUD-220,Celonis Process Mining,Data Sensitivity Assessment,2024-03-03,Laura Zimmermann,Failed,8,2024-12-05,Open
+AUD-221,Coupa Procurement,Application Governance Review,2025-05-03,Klaus Weber,Passed,0,2025-11-09,Closed
+AUD-222,Microsoft 365,GDPR Compliance Review,2024-06-26,Sarah Neumann,Failed,4,2025-04-24,Open
+AUD-223,Veeva Vault,Application Governance Review,2025-02-27,Peter Braun,Passed,0,2026-01-16,Closed
+AUD-224,Jira Software,GDPR Compliance Review,2024-02-25,Laura Zimmermann,Failed,9,2024-10-23,Open
+AUD-225,ServiceNow ITSM,GDPR Compliance Review,2024-12-08,Peter Braun,Passed,0,2025-11-16,Closed
+AUD-226,ServiceNow ITSM,Data Sensitivity Assessment,2024-02-21,Michael Wagner,Passed,0,2025-02-18,Closed
+AUD-227,Power BI Premium,GDPR Compliance Review,2024-12-14,Klaus Weber,Passed,0,2025-10-30,Closed
+AUD-228,SolarWinds ITSM,Application Governance Review,2024-11-30,Sarah Neumann,Minor Findings,10,2025-07-19,Closed
+AUD-229,Teams Voice,License Compliance Audit,2024-05-26,Thomas Müller,Passed,0,2025-05-07,Closed
+AUD-230,SAP SuccessFactors,GDPR Compliance Review,2024-09-30,Thomas Müller,Passed,0,2025-07-13,Closed
+AUD-231,LeanIX EA Suite,IT Security Audit,2025-03-04,Michael Wagner,Minor Findings,2,2025-11-13,Closed
+AUD-232,SAP S/4HANA,Application Governance Review,2024-06-01,Laura Zimmermann,Major Findings,1,2025-02-21,Open
+AUD-233,Qualys VM,License Compliance Audit,2024-11-24,Peter Braun,Major Findings,7,2025-06-26,Open
+AUD-234,Qualys VM,GDPR Compliance Review,2024-05-19,Maria Fischer,Passed,0,2025-02-07,Closed
+AUD-235,Qualys VM,Application Governance Review,2024-11-27,Stefan Hoffmann,Failed,2,2025-05-29,Open
+AUD-236,Celonis Process Mining,Data Sensitivity Assessment,2024-10-17,Maria Fischer,Passed,0,2025-09-18,Closed
+AUD-237,Dynatrace APM,IT Security Audit,2024-09-20,Julia Becker,Passed,0,2025-06-29,Closed
+AUD-238,Tableau Server,IT Security Audit,2024-03-12,Sarah Neumann,Passed,0,2024-11-10,Closed
+AUD-239,Pega Platform,Application Governance Review,2024-07-15,Maria Fischer,Minor Findings,4,2025-04-05,Closed
+AUD-240,Knauf Order Management,Application Governance Review,2025-01-05,Laura Zimmermann,Passed,0,2025-09-08,Closed
+AUD-241,Adobe Experience Manager,Data Sensitivity Assessment,2024-02-01,Anna Schmidt,Minor Findings,4,2024-09-08,Closed
+AUD-242,OneTrust Privacy,Application Governance Review,2025-04-17,Stefan Hoffmann,Failed,1,2026-03-26,Open
+AUD-243,Anaplan Planning,Data Sensitivity Assessment,2024-11-10,Maria Fischer,Passed,0,2025-06-12,Closed
+AUD-244,Confluence,License Compliance Audit,2024-08-20,Laura Zimmermann,Passed,0,2025-06-02,Closed
+AUD-245,SAP GRC,License Compliance Audit,2025-01-22,Peter Braun,Failed,3,2025-09-22,Open
+AUD-246,Microsoft 365,License Compliance Audit,2024-09-26,Sarah Neumann,Major Findings,5,2025-04-13,Open
+AUD-247,Azure DevOps,License Compliance Audit,2024-02-01,Peter Braun,Major Findings,3,2024-12-23,Open
+AUD-248,Confluence,GDPR Compliance Review,2024-03-25,Julia Becker,Major Findings,7,2024-10-20,Open
+AUD-249,Knauf Order Management,Data Sensitivity Assessment,2024-09-07,Anna Schmidt,Major Findings,7,2025-03-20,Open
+AUD-250,Jira Software,License Compliance Audit,2024-09-19,Michael Wagner,Minor Findings,9,2025-04-01,Closed
+AUD-251,Qualys VM,Application Governance Review,2024-12-10,Stefan Hoffmann,Failed,0,2025-09-17,Open
+AUD-252,SAP S/4HANA,Data Sensitivity Assessment,2025-01-16,Maria Fischer,Major Findings,1,2025-07-26,Open
+AUD-253,Coupa Procurement,Data Sensitivity Assessment,2024-12-24,Anna Schmidt,Major Findings,0,2025-07-09,Open
+AUD-254,LeanIX EA Suite,Data Sensitivity Assessment,2024-05-26,Michael Wagner,Passed,0,2024-12-26,Closed
+AUD-255,Anaplan Planning,IT Security Audit,2025-04-01,Michael Wagner,Minor Findings,6,2026-01-02,Closed
+AUD-256,Knauf Product Configurator,License Compliance Audit,2024-03-09,Julia Becker,Passed,0,2024-10-20,Closed
+AUD-257,DataStage ETL,IT Security Audit,2024-09-27,Klaus Weber,Failed,3,2025-03-26,Open
+AUD-258,SharePoint Online,GDPR Compliance Review,2024-08-25,Peter Braun,Minor Findings,8,2025-05-29,Closed
+AUD-259,Adobe Experience Manager,GDPR Compliance Review,2024-08-23,Julia Becker,Passed,0,2025-04-30,Closed
+AUD-260,Azure DevOps,GDPR Compliance Review,2024-01-17,Michael Wagner,Major Findings,0,2024-09-14,Open
+AUD-261,Workday HCM,License Compliance Audit,2024-02-21,Laura Zimmermann,Passed,0,2024-12-11,Closed
+AUD-262,ServiceNow ITSM,License Compliance Audit,2024-05-05,Thomas Müller,Minor Findings,7,2024-12-30,Closed
+AUD-263,Oracle EPM,Application Governance Review,2025-01-21,Thomas Müller,Passed,0,2025-11-25,Closed
+AUD-264,SAP SuccessFactors,License Compliance Audit,2025-02-21,Laura Zimmermann,Passed,0,2026-01-14,Closed
+AUD-265,Teams Voice,License Compliance Audit,2024-05-01,Stefan Hoffmann,Passed,0,2025-04-15,Closed
+AUD-266,SAP SuccessFactors,License Compliance Audit,2024-07-30,Stefan Hoffmann,Passed,0,2025-02-10,Closed
+AUD-267,Knauf Order Management,License Compliance Audit,2025-03-26,Klaus Weber,Failed,10,2026-01-09,Open
+AUD-268,RSA Archer,License Compliance Audit,2024-01-25,Julia Becker,Failed,10,2024-10-28,Open
+AUD-269,Teams Voice,Data Sensitivity Assessment,2024-12-22,Michael Wagner,Minor Findings,2,2025-09-04,Closed
+AUD-270,Tableau Server,Application Governance Review,2025-01-21,Peter Braun,Minor Findings,3,2025-09-15,Closed
+AUD-271,Confluence,Data Sensitivity Assessment,2025-02-16,Sarah Neumann,Passed,0,2026-01-05,Closed
+AUD-272,SolarWinds ITSM,GDPR Compliance Review,2024-10-12,Peter Braun,Passed,0,2025-07-18,Closed
+AUD-273,Pega Platform,Application Governance Review,2024-04-14,Julia Becker,Failed,1,2025-02-03,Open
+AUD-274,Microsoft 365,Data Sensitivity Assessment,2024-10-01,Maria Fischer,Passed,0,2025-06-06,Closed
+AUD-275,Knauf Field Service,License Compliance Audit,2024-11-04,Thomas Müller,Passed,0,2025-06-20,Closed
+AUD-276,Knauf Dealer App,Application Governance Review,2024-04-21,Sarah Neumann,Passed,0,2025-01-11,Closed
+AUD-277,SAP S/4HANA,GDPR Compliance Review,2024-04-18,Maria Fischer,Failed,1,2025-02-14,Open
+AUD-278,Knauf Field Service,Application Governance Review,2024-12-26,Maria Fischer,Minor Findings,3,2025-11-12,Closed
+AUD-279,Celonis Process Mining,Application Governance Review,2024-07-13,Sarah Neumann,Major Findings,10,2025-04-10,Open
