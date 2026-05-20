@@ -118,23 +118,21 @@ Three CSV files exported for Power BI ingestion:
 ```
 digital-app-portfolio-governance/
 │
-├── data/
-│   ├── application_portfolio.csv
-│   ├── action_items.csv
-│   └── audit_trail.csv
-│
-├── outputs/
-│   ├── 01_lifecycle_heatmap.png
-│   ├── 02_portfolio_matrix.png
-│   ├── 03_action_items_jira.png
-│   ├── 04_audit_compliance.png
-│   ├── 05_owner_alignment.png
-│   ├── portfolio_for_powerbi.csv
-│   ├── issues_for_powerbi.csv
-│   └── audits_for_powerbi.csv
-│
-├── generate_data.py
-├── analysis.py
+├── application_portfolio.csv       # Application inventory dataset
+├── action_items.csv                # Jira-style action items dataset
+├── audit_trail.csv                 # Audit history dataset
+├── portfolio_for_powerbi.csv       # Portfolio summary for Power BI
+├── issues_for_powerbi.csv          # Issues summary for Power BI
+├── audits_for_powerbi.csv          # Audit summary for Power BI
+├── 01_lifecycle_heatmap.png        # Lifecycle distribution chart
+├── 02_portfolio_matrix.png         # Technical vs business fit matrix
+├── 03_action_items_jira.png        # Jira-style action items chart
+├── 04_audit_compliance.png         # Audit compliance chart
+├── 05_owner_alignment.png          # Owner alignment chart
+├── dashboard_preview.png           # Dashboard preview screenshot
+├── generate_data.py                # Dataset generation script
+├── analysis.py                     # Main analysis and visualization script
+├── index.html                      # Interactive live dashboard
 └── README.md
 ```
 
