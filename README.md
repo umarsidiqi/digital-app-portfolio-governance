@@ -1,7 +1,7 @@
 # Digital Application Portfolio Governance Dashboard
 **Live Dashboard:** [View here](https://umarsidiqi.github.io/digital-app-portfolio-governance)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]
 
 ## Project Overview
 
